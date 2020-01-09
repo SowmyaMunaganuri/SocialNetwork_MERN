@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://sowmya123:sowmya123@connectdb-yirpq.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"af55877e7cbdc08f102f",
+    "githubSecret":"574bdbcc8423fe1f6a9006fc48ce31fd293f0abe"
+    }
